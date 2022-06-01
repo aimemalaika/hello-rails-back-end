@@ -5,9 +5,7 @@
 - Ruby
 - Ruby on Rails
 - PostgreSQL
-- React & Redux
-## Live Demo
-### UNAVAILABLE REQUIRES A SERVER
+### This is the back-end for the [hello-react-front-end](https://github.com/aimemalaika/hello-react-front-end/pull/1) project.
 ## Getting Started
 - clone the repository by running\
     `git https://github.com/aimemalaika/blog.git`
